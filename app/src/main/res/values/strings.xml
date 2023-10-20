@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Estudiar Informatica</string>
+    <string name="txCiclo">Ciclo:</string>
+    <string name="txPoblacion">Población:</string>
+    <string name="txTipo">Tipo:</string>
+    <string name="btBorrar">Borrar</string>
+    <string-array name="spCiclo">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+    </string-array>
+
+    <string-array name="spPoblacion">
+        <item>Coria del Rio</item>
+        <item>Ginés</item>
+        <item>Castilleja</item>
+    </string-array>
+
+    <string-array name="spTIpo">
+        <item>Presencial</item>
+        <item>Online</item>
+    </string-array>
+</resources>
